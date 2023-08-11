@@ -1,0 +1,122 @@
+[
+  {
+    "Customer_ID": 1,
+    "Customer_Type": "individual",
+    "First_Name": "John",
+    "Last_Name": "Doe",
+    "Birth_Date": "1985-10-15",
+    "Tax_ID": "123-45-6789",
+    "Email": "john.doe@example.com",
+    "Phone": "202-555-0185",
+    "Address": "123 Main St", 
+    "City": "Springfield",
+    "State": "DC",
+    "Country": "USA"
+  },
+  {
+    "Customer_ID": 2, 
+    "Customer_Type": "individual",
+    "First_Name": "Jane",
+    "Last_Name": "Doe",
+    "Email": "jane.doe@example.com",
+    "Phone": "202-555-0135",
+    "Address": "456 Park Ave",
+    "City": "Springfield", 
+    "State": "DC",
+    "Country": "USA"
+  },
+  {
+    "Customer_ID": 3,
+    "Customer_Type": "company",
+    "Company_Name": "ABC Corp",
+    "Email": "contact@abc-corp.com",
+    "Phone": "202-555-0199",
+    "Address": "789 Commerce St",
+    "City": "Washington",
+    "State": "DC",
+    "Country": "USA" 
+  },
+  {
+    "Customer_ID": 4,
+    "Customer_Type": "company",
+    "Company_Name": "TechSoft LLC",
+    "Email": "contact@techsoft.com",
+    "Phone": "202-555-0134",
+    "Address": "234 Industrial Rd",
+    "City": "New York",
+    "State": "NY", 
+    "Country": "USA"
+  },
+  {
+    "Customer_ID": 5,
+    "Customer_Type": "individual",
+   "First_Name": "Bob",
+    "Last_Name": "Brown",
+    "Email": "bob.brown@example.com",
+    "Phone": "202-555-0123",
+    "Address": "456 Park Rd",
+    "City": "Springfield",
+    "State": "DC",
+    "Country": "USA"
+  },
+  {
+    "Customer_ID": 6,
+    "Customer_Type": "individual",
+    "First_Name": "Sarah",
+    "Last_Name": "Thompson", 
+    "Email": "sarah.thompson@example.com",
+    "Phone": "212-555-0298",
+    "Address": "789 Central St",
+    "City": "New York",
+    "State": "NY",
+    "Country": "USA"
+  },
+  {
+    "Customer_ID": 7,
+    "Customer_Type": "company",
+    "Company_Name": "ABC Inc",
+    "Tax_ID": "12-3456789", 
+    "Email": "contact@abc-inc.com",
+    "Phone": "212-555-0207",
+    "Address": "135 Industry Ave",
+    "City": "New York",
+    "State": "NY",
+    "Country": "USA"
+  },
+  {
+    "Customer_ID": 8,
+    "Customer_Type": "company",
+    "Company_Name": "Foobar LLC",
+    "Tax_ID": "98-7654321",
+    "Email": "info@foobar.com",
+    "Phone": "212-555-0398",
+    "Address": "246 Fifth Ave",
+    "City": "New York",
+    "State": "NY", 
+    "Country": "USA" 
+  },
+  {
+    "Customer_ID": 9, 
+    "Customer_Type": "individual",
+    "First_Name": "Michael",
+    "Last_Name": "Robinson",
+    "Email": "michael.r@example.com",
+    "Phone": "212-555-0218",
+    "Address": "112 Park St",
+    "City": "New York",
+    "State": "NY",
+    "Country": "USA"
+  },
+  {
+    "Customer_ID": 10,
+    "Customer_Type": "individual",
+    "First_Name": "Barbara",
+    "Last_Name": "Thompson",
+    "Email": "barbara.thompson@example.com",
+    "Phone": "212-555-0147",
+    "Address": "972 Seventh St",
+    "City": "New York",
+    "State": "NY",
+    "Country": "USA"
+  }
+]
